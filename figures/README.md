@@ -1,1 +1,1 @@
-This directory contains all accuracy and loss function plots and visualisation plots.
+This directory contains accuracy and loss function plots and visualisation plots.
